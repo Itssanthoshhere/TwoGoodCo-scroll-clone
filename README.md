@@ -80,7 +80,7 @@ cd twogood-scroll
 | [GSAP](https://greensock.com/gsap/)                                     | Smooth animations          |
 | [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) | Custom scroll behavior     |
 | [Google Fonts](https://fonts.google.com/)                               | Typography                 |
-| [Figma](https://figma.com/)                                             | (If used) Design reference |
+
 
 --- 
 

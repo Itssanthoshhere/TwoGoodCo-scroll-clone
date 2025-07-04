@@ -53,7 +53,7 @@ This project is live on **Vercel**:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/twogood-scroll.git
+git clone https://github.com/Itssanthoshhere/twogood-scroll.git
 ````
 
 2. Open the project folder:

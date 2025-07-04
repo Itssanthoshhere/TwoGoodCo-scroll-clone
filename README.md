@@ -83,8 +83,8 @@ This project was inspired by creative scrolling web experiences. Thanks to all t
 
 Feel free to connect with me:
 
-* GitHub: [@your-username](https://github.com/your-username)
-* LinkedIn: [Your Name](https://www.linkedin.com/in/your-link/)
+* GitHub: [@Itssanthoshhere](https://github.com/Itssanthoshhere)
+* LinkedIn: [Santhosh VS](https://www.linkedin.com/in/thesanthoshvs/)
 
 ---
 
@@ -92,15 +92,3 @@ Feel free to connect with me:
 
 If you liked this project, drop a ⭐ on the repo and share it with others!
 
-```
-
----
-
-Let me know if you'd like to:
-
-- Add a project GIF or image preview
-- Include credits for fonts or media
-- Modify the contact info or GitHub link
-
-I'll tailor it accordingly!
-```

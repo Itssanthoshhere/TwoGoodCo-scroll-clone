@@ -73,9 +73,24 @@ cd twogood-scroll
 
 ---
 
+## 🛠️ Tools & Libraries Used
+
+| Tool/Library                                                            | Purpose                    |
+| ----------------------------------------------------------------------- | -------------------------- |
+| [GSAP](https://greensock.com/gsap/)                                     | Smooth animations          |
+| [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) | Custom scroll behavior     |
+| [Google Fonts](https://fonts.google.com/)                               | Typography                 |
+| [Figma](https://figma.com/)                                             | (If used) Design reference |
+
+--- 
+
 ## 🙌 Acknowledgements
 
 This project was inspired by creative scrolling web experiences. Thanks to all the open-source fonts and libraries used!
+
+* Inspired by the amazing design of [Two Good Co](https://www.twogood.com.au/)
+* Special thanks to GSAP and Locomotive Scroll documentation
+
 
 ---
 

@@ -98,7 +98,7 @@ This project was inspired by creative scrolling web experiences. Thanks to all t
 
 Feel free to connect with me:
 
-* GitHub: [@Itssanthoshhere](https://github.com/Itssanthoshhere)
+* GitHub: [Itssanthoshhere](https://github.com/Itssanthoshhere)
 * LinkedIn: [Santhosh VS](https://www.linkedin.com/in/thesanthoshvs/)
 
 ---

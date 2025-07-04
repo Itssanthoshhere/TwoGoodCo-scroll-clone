@@ -17,7 +17,6 @@ Welcome to **TwoGood Scroll**, a visually engaging scroll-based web experience c
 ├── js/              → JavaScript for interactivity and scroll effects
 ├── favicon.ico      → Website favicon
 ├── index.html       → Main HTML file
-├── video.mp4        → Embedded video asset
 └── README.md        → Project documentation
 
 ````
@@ -69,7 +68,7 @@ cd twogood-scroll
 
 ## 📸 Preview
 
-![Preview](Preview.mov)
+![Preview](assets/Preview.png)
 
 
 ---
